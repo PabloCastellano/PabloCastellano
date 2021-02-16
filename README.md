@@ -1,11 +1,14 @@
 ### Hi there 👋
 
+I'm Pablo Castellano, a freelance DevOps and software engineer. You can find me on [Twitter](https://twitter.com/_pablog). My personal website is [https://pablog.me/](https://pablog.me/).
+
+![PabloCastellano's github stats](https://github-readme-stats.vercel.app/api?username=PabloCastellano&theme=cobalt)
+
 <!--
 **PabloCastellano/PabloCastellano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
