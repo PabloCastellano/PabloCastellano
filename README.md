@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Pablo Castellano, a freelance DevOps and software engineer. You can find me on [Twitter](https://twitter.com/_pablog). My personal website is [https://pablog.me/](https://pablog.me/).
+I'm Pablo Castellano, a freelance DevOps and software engineer. You can find me on [Twitter](https://twitter.com/_pablog).
 
 ![PabloCastellano's github stats](https://github-readme-stats.vercel.app/api?username=PabloCastellano&theme=cobalt)
 
